@@ -1,2 +1,1 @@
-﻿-- Scripts de inicialización inicial para PostgreSQL
-CREATE DATABASE tienda_pedidos;
+-- La base de datos tienda_pedidos es creada automáticamente por POSTGRES_DB.
